@@ -14,7 +14,7 @@ Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui tek
 ## 🌐 Hubungi Saya
 - 📧 Email: tugaslanaxiirpl@gmail.com
 - 🚀 Media Sosial: Kandang Nyelag
-- 💻 GitHub: [https://github.com/lanis123](https://github.com/lanis123)## Hi there 👋
+- 💻 GitHub: [https://github.com/lanis123](https://github.com/lanis123)👋
 
 <!--
 **lanis123/lanis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
